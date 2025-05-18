@@ -1,0 +1,10 @@
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\bin\Debug\netcoreapp3.1\NM.SalesManagementApp.Backend.exe
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\obj\Debug\netcoreapp3.1\NM.SalesManagementApp.Backend.csprojAssemblyReference.cache
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\obj\Debug\netcoreapp3.1\NM.SalesManagementApp.Backend.AssemblyInfoInputs.cache
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\obj\Debug\netcoreapp3.1\NM.SalesManagementApp.Backend.AssemblyInfo.cs
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\obj\Debug\netcoreapp3.1\NM.SalesManagementApp.Backend.RazorTargetAssemblyInfo.cache
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\obj\Debug\netcoreapp3.1\staticwebassets\NM.SalesManagementApp.Backend.StaticWebAssets.Manifest.cache
+F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\obj\Debug\netcoreapp3.1\staticwebassets\NM.SalesManagementApp.Backend.StaticWebAssets.xml

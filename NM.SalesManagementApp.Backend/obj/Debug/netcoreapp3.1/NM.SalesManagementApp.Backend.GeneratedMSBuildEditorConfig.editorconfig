@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = NM.SalesManagementApp.Backend
+build_property.ProjectDir = F:\Niki\NM.SalesManagementApp.Backend\NM.SalesManagementApp.Backend\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "NM.SalesManagementApp.Backend.Controllers.SalesRepresentativesController",
+    "Method": "GetAll",
+    "RelativePath": "api/SalesRepresentatives",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NM.SalesManagementApp.Backend.Controllers.SalesRepresentativesController",
+    "Method": "Post",
+    "RelativePath": "api/SalesRepresentatives",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rep",
+        "Type": "NM.SalesManagementApp.Backend.Models.SalesRepresentative",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NM.SalesManagementApp.Backend.Controllers.SalesRepresentativesController",
+    "Method": "Get",
+    "RelativePath": "api/SalesRepresentatives/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NM.SalesManagementApp.Backend.Controllers.SalesRepresentativesController",
+    "Method": "Put",
+    "RelativePath": "api/SalesRepresentatives/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rep",
+        "Type": "NM.SalesManagementApp.Backend.Models.SalesRepresentative",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NM.SalesManagementApp.Backend.Controllers.SalesRepresentativesController",
+    "Method": "Delete",
+    "RelativePath": "api/SalesRepresentatives/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

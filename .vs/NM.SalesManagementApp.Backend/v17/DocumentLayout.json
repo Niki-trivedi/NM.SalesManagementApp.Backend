@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Niki\\NM.SalesManagementApp.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\repositories\\salesreprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\repositories\\salesreprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\repositories\\isalesreprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\repositories\\isalesreprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\models\\salesrepresentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\models\\salesrepresentative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\migrations\\20250517165024_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\migrations\\20250517165024_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\controllers\\salesrepresentativescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\controllers\\salesrepresentativescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|f:\\niki\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D53B86D1-E35B-4E36-AD93-901A1276E350}|NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj|solutionrelative:nm.salesmanagementapp.backend\\nm.salesmanagementapp.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517164838_AddedSalesModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NM.SalesManagementApp.Backend\\Migrations\\20250517164838_AddedSalesModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517164807_AddedSalesRepModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NM.SalesManagementApp.Backend\\Migrations\\20250517164807_AddedSalesRepModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesRepRepository.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Repositories\\SalesRepRepository.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Repositories\\SalesRepRepository.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Repositories\\SalesRepRepository.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Repositories\\SalesRepRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:40:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250517165024_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517165024_InitialCreate.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Migrations\\20250517165024_InitialCreate.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517165024_InitialCreate.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Migrations\\20250517165024_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:50:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:53:25.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:24:21.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesRepresentative.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Models\\SalesRepresentative.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Models\\SalesRepresentative.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Models\\SalesRepresentative.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Models\\SalesRepresentative.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:50:11.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\appsettings.Development.json",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\appsettings.Development.json",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T16:34:15.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\appsettings.json",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\appsettings.json",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T16:34:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Program.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Program.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:03:23.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Startup.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Startup.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Startup.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:08:14.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesRepresentativesController.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Controllers\\SalesRepresentativesController.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Controllers\\SalesRepresentativesController.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Controllers\\SalesRepresentativesController.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Controllers\\SalesRepresentativesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:04:49.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T17:15:34.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISalesRepRepository.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Repositories\\ISalesRepRepository.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Repositories\\ISalesRepRepository.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Repositories\\ISalesRepRepository.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Repositories\\ISalesRepRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:01:35.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NM.SalesManagementApp.Backend.csproj",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T18:57:59.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250517164838_AddedSalesModel.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517164838_AddedSalesModel.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Migrations\\20250517164838_AddedSalesModel.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517164838_AddedSalesModel.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Migrations\\20250517164838_AddedSalesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:48:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250517164807_AddedSalesRepModel.cs",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517164807_AddedSalesRepModel.cs",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\Migrations\\20250517164807_AddedSalesRepModel.cs",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\Migrations\\20250517164807_AddedSalesRepModel.cs",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\Migrations\\20250517164807_AddedSalesRepModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:48:07.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NM.SalesManagementApp.Backend",
+              "DocumentMoniker": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "RelativeDocumentMoniker": "NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "ToolTip": "F:\\Niki\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "RelativeToolTip": "NM.SalesManagementApp.Backend\\NM.SalesManagementApp.Backend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T18:58:13.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
